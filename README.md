@@ -1,17 +1,17 @@
 # 612-Sea-Surface-Salinity-Project
-## Shifting-Seas-Salinity-Analysis
+## Shifting Seas Salinity Analysis
 
-### Lab_1_Data_Processing.ipynb           
+### Lab 1 Notebook.ipynb           
   * Initial data loading and raster creation
-### Lab_2_Spatial_Statistics.ipynb       
+### Lab 2 Notebook.ipynb       
   * Global Moran's I analysis on one month's data
-### Lab_3_Web_Mapping.ipynb              
+### Lab 3 Notebook.ipynb              
   * Attempted AGOL export and web map creation
-### Yearly_Averages_Analysis.ipynb       
+### Yearly Averages.ipynb       
   * Creates 14 yearly salinity averages
-### Total_Avg_Global_Morans_I.ipynb      
+### Total Avg and Global Morans I.ipynb      
   * 14 year average with Global Moran's I
-### Local_Morans_I_Analysis.ipynb        
+### Local Morans I.ipynb        
   * Cluster analysis for study areas
 
                     
